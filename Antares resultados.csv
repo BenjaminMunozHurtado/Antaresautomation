@@ -1,4 +1,4 @@
-Date (YYMMDD),Observation Number,FeI Line ID,Calculated Radial Velocity (km/s),RMS ThAr Calibration,v_telurica,v_heliocentrica_kms,Inverse Flux Intensity,Flux Intensity,Gradient 1,Gradient 2,R^2 Gradient 1,R^2 Gradient 2,Standard Error Gradient 1,Standard Error Gradient 2
+Date (YYMMDD),Observation Number,FeI Line ID,Calculated Radial Velocity (km/s),RMS ThAr Calibration,Telluric Velocity (km/s),Heliocentric Velocity (km/s),Inverse Flux Intensity,Flux Intensity,Gradient 1,Gradient 2,R^2 Gradient 1,R^2 Gradient 2,Standard Error Gradient 1,Standard Error Gradient 2
 150307,1,A,-35.82,0.0024,29.8,-6.02,1.61,0.62,0.0061,0.0042,0.0307,0.0325,0.0152,0.023
 150307,1,B,-35.94,0.0024,29.8,-6.13,1.48,0.68,0.0061,0.0042,0.0307,0.0325,0.0152,0.023
 150307,1,C,-35.05,0.0024,29.8,-5.25,1.2,0.84,0.0061,0.0042,0.0307,0.0325,0.0152,0.023
